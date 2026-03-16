@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Memory_UniqueID_SingleWire")(type "KiCad")(uri "${KIPRJMOD}/library/Memory_UniqueID_SingleWire.kicad_sym")(options "")(descr ""))
+)
